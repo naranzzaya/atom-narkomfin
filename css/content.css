@@ -1,4 +1,4 @@
-article h1, article h2, article h3, article h4,article h5, article p, article ul,article  ol,article  em,article hr, article blockquote { width: 750px; margin: 0 auto;
+article > * { width: 750px; margin: 0 auto;
 }
 article h1,article  h2, article h3, article h4, article h5 { font-family: 'PT Sans Caption', sans-serif; font-weight: bold;
 }
